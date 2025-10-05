@@ -1,0 +1,284 @@
+{
+  "himani": {
+    "email": "himanikatari@gmail.com",
+    "password": "13fd065e89eb9f35724955e2bb3a42cc0744dd7d39d6efe10a4d28bc5488e619",
+    "created_at": "2025-08-17T19:39:20.430556",
+    "chat_history": [
+      {
+        "role": "assistant",
+        "content": "\n        Hello! I'm MindfulChat, your AI mental health companion. \ud83d\ude0a\n        \n        I'm here to:\n        - Listen to your thoughts and feelings \ud83d\udcad\n        - Provide emotional support and encouragement \ud83d\udcaa\n        - Recommend movies, songs, books, and activities \ud83c\udfac\ud83c\udfb5\ud83d\udcda\n        - Help you process stress, happiness, sadness, or any emotion you're experiencing\n        \n        Feel free to share whatever is on your mind. This is a safe space! \ud83c\udf1f\n        ",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "user",
+        "content": "hey",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! What's on your mind?",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "user",
+        "content": "nothing just want to talk",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi there! How are you doing today?",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "user",
+        "content": "good what about u",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.",
+        "timestamp": "19:39"
+      },
+      {
+        "role": "user",
+        "content": "y answering talk with me",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "user",
+        "content": "sorry",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "user",
+        "content": "recommend",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "user",
+        "content": "i want some recommendations",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.",
+        "timestamp": "19:40"
+      },
+      {
+        "role": "user",
+        "content": "movies",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.\n\n\ud83c\udfac **Movie Recommendations for you:**\n\u2022 The Intouchables - A heartwarming friendship story\n\u2022 Good Will Hunting - A touching story about healing and growth\n\u2022 Inside Out - A beautiful exploration of emotions and mental health",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "user",
+        "content": "songs",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?\n\n\ud83c\udfb5 **Song Recommendations for you:**\n\u2022 Here Comes the Sun by The Beatles - Classic feel-good song\n\u2022 Can't Stop the Feeling by Justin Timberlake - Energetic and happy\n\u2022 Three Little Birds by Bob Marley - Positive message",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "user",
+        "content": "books",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?\n\n\ud83d\udcda **Book Recommendations for you:**\n\u2022 Where the Crawdads Sing by Delia Owens - Beautiful coming-of-age story\n\u2022 A Man Called Ove by Fredrik Backman - Heartwarming story about community\n\u2022 The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid - Engaging and uplifting",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "user",
+        "content": "games",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.",
+        "timestamp": "19:52"
+      },
+      {
+        "role": "user",
+        "content": "movies",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?\n\n\ud83c\udfac **Movie Recommendations for you:**\n\u2022 Good Will Hunting - A touching story about healing and growth\n\u2022 The Pursuit of Happyness - An inspiring story about perseverance\n\u2022 Inside Out - A beautiful exploration of emotions and mental health",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "user",
+        "content": "songs",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?\n\n\ud83c\udfb5 **Song Recommendations for you:**\n\u2022 Good as Hell by Lizzo - Empowering and fun\n\u2022 Three Little Birds by Bob Marley - Positive message\n\u2022 Here Comes the Sun by The Beatles - Classic feel-good song",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "user",
+        "content": "games",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.\n\n\ud83c\udfae **Game Recommendations for you:**\n\u2022 Portal 2 - Clever puzzle-solving with humor\n\u2022 Mario Kart - Fast-paced and fun racing game\n\u2022 Overcooked! - Cooperative and chaotic cooking game",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "user",
+        "content": "yoga",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "user",
+        "content": "exercises",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "user",
+        "content": "recipes",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.",
+        "timestamp": "20:15"
+      },
+      {
+        "role": "user",
+        "content": "recipes",
+        "timestamp": "20:18"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm listening. Whatever you're going through, remember that you don't have to handle everything alone. Sometimes a fresh perspective can be really helpful.",
+        "timestamp": "20:18"
+      },
+      {
+        "role": "user",
+        "content": "games",
+        "timestamp": "20:18"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.\n\n\ud83c\udfae **Game Recommendations for you:**\n\u2022 Portal 2 - Clever puzzle-solving with humor\n\u2022 Super Mario Odyssey - Joyful and colorful platform adventure\n\u2022 Rocket League - Exciting vehicular soccer game",
+        "timestamp": "20:18"
+      },
+      {
+        "role": "user",
+        "content": "cook",
+        "timestamp": "20:18"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?\n\n\ud83c\udf73 **Recipe Suggestions for you:**\n\u2022 Bright citrus salad with mint and honey\n\u2022 Homemade guacamole with crunchy chips\n\u2022 Colorful vegetable stir-fry with garlic and ginger",
+        "timestamp": "20:18"
+      },
+      {
+        "role": "user",
+        "content": "food",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.\n\n\ud83c\udf73 **Recipe Suggestions for you:**\n\u2022 Fresh fruit smoothie bowl packed with vitamins\n\u2022 Homemade guacamole with crunchy chips\n\u2022 Bright citrus salad with mint and honey",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "user",
+        "content": "exercise",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.\n\n\ud83c\udfcb\ufe0f **Exercise Suggestions for you:**\n\u2022 Bodyweight exercises for strength and vitality\n\u2022 Stretching routine to refresh your body\n\u2022 Dance to your favorite upbeat songs for 10 minutes",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "user",
+        "content": "game",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to listen. Sometimes just talking through what's on our minds can help us see things more clearly. What's been occupying your thoughts lately?\n\n\ud83c\udfae **Game Recommendations for you:**\n\u2022 Super Mario Odyssey - Joyful and colorful platform adventure\n\u2022 Portal 2 - Clever puzzle-solving with humor\n\u2022 Overcooked! - Cooperative and chaotic cooking game",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "user",
+        "content": "coo",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.\n\n\ud83c\udf73 **Recipe Suggestions for you:**\n\u2022 Fresh fruit smoothie bowl packed with vitamins\n\u2022 Easy avocado toast with a sprinkle of chili flakes\n\u2022 Bright citrus salad with mint and honey",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "user",
+        "content": "exercises",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.",
+        "timestamp": "20:19"
+      },
+      {
+        "role": "user",
+        "content": "try",
+        "timestamp": "20:20"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.\n\n\u2728 **Activity Suggestions for you:**\n\u2022 Make yourself a special cup of tea or coffee\n\u2022 Practice meditation for 10 minutes\n\u2022 Organize a small space in your home",
+        "timestamp": "20:20"
+      },
+      {
+        "role": "user",
+        "content": "watc",
+        "timestamp": "20:20"
+      },
+      {
+        "role": "assistant",
+        "content": "Thanks for sharing with me. I find that when something's bothering us, it often helps to get it out rather than keeping it bottled up inside.",
+        "timestamp": "20:20"
+      }
+    ]
+  }
+}

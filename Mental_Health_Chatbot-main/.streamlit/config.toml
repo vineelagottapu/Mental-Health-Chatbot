@@ -1,0 +1,9 @@
+[server]
+headless = true
+address = "localhost"
+
+[theme]
+primaryColor = "#4CAF50"
+backgroundColor = "#f0f8ff"
+secondaryBackgroundColor = "#e8f5e9"
+textColor = "#2e7d32"
